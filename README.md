@@ -61,7 +61,7 @@ Plantyex Website — это учебное fullstack-веб-приложение
 ### Frontend
 - **HTML5**
 - **CSS3**
-- **Vanilla JavaScript**
+- **JavaScript**
 
 ### Database
 - **PostgreSQL**
